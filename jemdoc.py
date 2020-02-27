@@ -1,4 +1,5 @@
-#!/usr/bin/env python
+﻿#!/usr/bin/env python
+# coding: utf-8
 
 """jemdoc version 0.7.3, 2012-11-27."""
 
@@ -136,7 +137,7 @@ def standardconf():
   <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
   <head>
   <meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
-  <meta http-equiv="Content-Type" content="text/html;charset=gbk" />
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
   
   [defaultcss]
   <link rel="stylesheet" href="jemdoc.css" type="text/css" />
@@ -1480,6 +1481,7 @@ def procfile(f):
       else:
         ts = '%Y-%m-%d'
       s = time.strftime(ts, time.localtime(time.time()))
+      s = s.decode('gbk').encode('utf-8')
       hb(f.outf, f.conf['lastupdated'], s)
     if showsourcelink:
       hb(f.outf, f.conf['sourcelink'], f.inname)
