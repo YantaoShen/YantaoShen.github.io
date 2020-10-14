@@ -17,7 +17,7 @@ My research interests include
 - Machine Learning
 
 == News
-- Feb 27,~2020:1 paper accepted to CVPR 2020 as oral, thanks to my co-authors at Amazon! This  [http://openaccess.thecvf.com/content_CVPR_2020/html/Shen_Towards_Backward-Compatible_Representation_Learning_CVPR_2020_paper.html paper] opens a new research track of feature backward compatibility.
+- Feb 27,~2020:1 paper accepted to CVPR 2020 as oral, thanks to my co-authors at Amazon! This  [http://openaccess.thecvf.com/content_CVPR_2020/html/Shen_Towards_Backward-Compatible_Representation_Learning_CVPR_2020_paper.html paper] opens a new research track of feature backward compatibility. The [https://github.com/YantaoShen/openBCT code] is now available.
 - Jan 06,~2020:~I obtained my Ph.D. degree.
 - Dec 01,~2019:~My fruitful internship at Amazon Rekognition is finished, thanks to my colleagues, especially to Yuanjun, Wei, and Stefano!
 - Nov 02,~2019:~1 paper accepted as a regular TPAMI paper. Thanks to my co-authors!
@@ -29,7 +29,7 @@ My research interests include
 
 == Recent Publications
 
-*Y. Shen*, Y. Xiong, W. Xia, S. Soatto, \"Towards Backward-Compatible Representation Learning\", IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020. (*Oral*)  \[[http://openaccess.thecvf.com/content_CVPR_2020/papers/Shen_Towards_Backward-Compatible_Representation_Learning_CVPR_2020_paper.pdf PDF link]\] \[[https://venturebeat.com/2020/03/30/amazon-proposes-technique-for-improving-image-classifiers-without-reprocessing Press Coverage]\] 
+*Y. Shen*, Y. Xiong, W. Xia, S. Soatto, \"Towards Backward-Compatible Representation Learning\", IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020. (*Oral*)  \[[http://openaccess.thecvf.com/content_CVPR_2020/papers/Shen_Towards_Backward-Compatible_Representation_Learning_CVPR_2020_paper.pdf PDF link]\] \[[https://venturebeat.com/2020/03/30/amazon-proposes-technique-for-improving-image-classifiers-without-reprocessing Press Coverage]\] \[[https://github.com/YantaoShen/openBCT Code]\]
 
 *Y. Shen*, H. Li, T. Xiao, S. Yi, D. Chen, X. Wang, \"Person Re-identification with Deep Kronecker-Product Matching and Group-shuffling Random Walk\", IEEE Transactions on Pattern Analysis and Machine Intelligence, (TPAMI). \[[https://ieeexplore.ieee.org/document/8906139    link]\]
 
