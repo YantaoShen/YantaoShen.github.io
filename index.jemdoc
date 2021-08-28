@@ -1,8 +1,7 @@
 ==Yantao SHEN,  {{<span lang="zh-Hans">沈岩涛</span>}}\n
 
-
-PhD,\n 
-[http://www.ee.cuhk.edu.hk/en-gb/ Electronic Engineering Department], \n[http://www.cuhk.edu.hk/chinese/index.html The Chinese University of Hong Kong (CUHK)]\n
+Senior Applied Scientist \n
+Amazon Web Services (AWS), Rekognition \n
 E-mail: /ytshen/ \[@\] link \[DOT\] cuhk \[DOT\] edu \[DOT\] hk \n
 
 == About Me
@@ -14,10 +13,11 @@ I obtained my Ph.D. degree in Electronic Engineering from the Department of [htt
 == Research Interest
 My research interests include
 - Computer Vision
-- Machine Learning
+- Deep Learning
 
 == News
-- Feb 27,~2020:1 paper accepted to CVPR 2020 as oral, thanks to my co-authors at Amazon! This  [http://openaccess.thecvf.com/content_CVPR_2020/html/Shen_Towards_Backward-Compatible_Representation_Learning_CVPR_2020_paper.html paper] opens a new research track of feature backward compatibility. The [https://github.com/YantaoShen/openBCT code] is now available.
+- Aug 23,~2021:~After 1-year wonderful time at Tencent, I rejoin the Amazon Web Services.
+- Feb 27,~2020:~1 paper accepted to CVPR 2020 as oral, thanks to my co-authors at Amazon! This  [http://openaccess.thecvf.com/content_CVPR_2020/html/Shen_Towards_Backward-Compatible_Representation_Learning_CVPR_2020_paper.html paper] opens a new research track of feature backward compatibility.
 - Jan 06,~2020:~I obtained my Ph.D. degree.
 - Dec 01,~2019:~My fruitful internship at Amazon Rekognition is finished, thanks to my colleagues, especially to Yuanjun, Wei, and Stefano!
 - Nov 02,~2019:~1 paper accepted as a regular TPAMI paper. Thanks to my co-authors!
