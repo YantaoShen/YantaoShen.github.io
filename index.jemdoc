@@ -1,21 +1,21 @@
 ==Yantao SHEN,  {{<span lang="zh-Hans">沈岩涛</span>}}\n
 
-Applied Scientist \n
-Amazon Web Services (AWS), Rekognition \n
+Senior Applied Scientist \n
+Amazon Web Services (AWS) \n
 E-mail: /ytshen/ \[@\] link \[DOT\] cuhk \[DOT\] edu \[DOT\] hk \n
 
 == About Me
-I obtained my Ph.D. degree in Electronic Engineering from the Department of [http://www.ee.cuhk.edu.hk/en-gb/ Electronic Engineering] and [http://mmlab.ie.cuhk.edu.hk/ Multimedia Laboratory (MMLAB)], [http://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong], supervised by [http://www.ee.cuhk.edu.hk/~xgwang/ Prof. Xiaogang Wang] and [http://www.ee.cuhk.edu.hk/~hsli/ Prof. Hongsheng Li] .~I also work closly with  [http://xiaotong.me/ Dr. Tong Xiao], [http://yjxiong.me/ Dr. Yuanjun Xiong], and [https://www.linkedin.com/in/wei-xia Dr. Wei Xia].~I received my B.E. degree from the Department of Automation, [http://english.neu.edu.cn/ Northeastern University], China, in 2015.\n
-\n
-[Yantao_SHEN_CV.pdf My CV], [https://scholar.google.com.hk/citations?user=bEctTN0AAAAJ&hl=zh-CN Google Scholar], [https://github.com/YantaoShen/ Github]
+I obtained my Ph.D. degree from [http://mmlab.ie.cuhk.edu.hk/ Multimedia Laboratory (MMLAB)], [http://www.cuhk.edu.hk/ The Chinese University of Hong Kong], supervised by [http://www.ee.cuhk.edu.hk/~xgwang/ Prof. Xiaogang Wang] and [http://www.ee.cuhk.edu.hk/~hsli/ Prof. Hongsheng Li] .~I received my B.E. degree from the Department of Automation, [https://www.neu.edu.cn/ Northeastern University], China, in 2015.\n
 \n
 
 == Research Interest
-My research interests include
-- Computer Vision
-- Deep Learning
+These days, hot research topics flip faster than seasonal latte flavors and the same goes for research interests. \n
+I can only say that my current 'research focus' is now at
+- large language modeling and its post training (who isn’t doing these things right now? Really?)
+
 
 == News
+- Apr 01,~2025:~Moved to a new org at AWS.
 - Aug 23,~2021:~After 1-year wonderful time at Tencent, I rejoin the Amazon Web Services.
 - Feb 27,~2020:~1 paper accepted to CVPR 2020 as oral, thanks to my co-authors at Amazon! This  [http://openaccess.thecvf.com/content_CVPR_2020/html/Shen_Towards_Backward-Compatible_Representation_Learning_CVPR_2020_paper.html paper] opens a new research track of feature backward compatibility.
 - Jan 06,~2020:~I obtained my Ph.D. degree.
@@ -27,18 +27,5 @@ My research interests include
 - Feb~20,~2018:~2 papers accepted to CVPR 2018, code is available now.
 - Jul~19,~2017:~1 paper accepted to ICCV 2017.
 
-== Recent Publications
-
-*Y. Shen*, Y. Xiong, W. Xia, S. Soatto, \"Towards Backward-Compatible Representation Learning\", IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020. (*Oral*)  \[[http://openaccess.thecvf.com/content_CVPR_2020/papers/Shen_Towards_Backward-Compatible_Representation_Learning_CVPR_2020_paper.pdf PDF link]\] \[[https://venturebeat.com/2020/03/30/amazon-proposes-technique-for-improving-image-classifiers-without-reprocessing Press Coverage]\] \[[https://github.com/YantaoShen/openBCT Code]\]
-
-*Y. Shen*, H. Li, T. Xiao, S. Yi, D. Chen, X. Wang, \"Person Re-identification with Deep Kronecker-Product Matching and Group-shuffling Random Walk\", IEEE Transactions on Pattern Analysis and Machine Intelligence, (TPAMI). \[[https://ieeexplore.ieee.org/document/8906139    link]\]
-
-*Y. Shen*, H. Li, S. Yi, D. Chen, X. Wang, \"Person Re-identification with Deep Similarity-Guided Graph Neural Network\", 15th European Conference on Computer Vision (ECCV), 2018.  \[[http://openaccess.thecvf.com/content_ECCV_2018/papers/Yantao_Shen_Person_Re-identification_with_ECCV_2018_paper.pdf PDF link]\]
-
-D. Chen,  H. Li, X, Liu, *Y. Shen*, J. Shao, Z. Yuan,  X. Wang, \"Improving Deep Visual Representation for Person Re-identification by Global and Local Image-language Association\", 15th European Conference on Computer Vision (ECCV), 2018.  \[[http://openaccess.thecvf.com/content_ECCV_2018/papers/Dapeng_Chen_Improving_Deep_Visual_ECCV_2018_paper.pdf PDF link]\]
-
-*Y. Shen*, H. Li, S. Yi, D. Chen, X. Wang, \"Deep Group-shuffling Random Walk for Person Re-identification \", IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018. \[[http://openaccess.thecvf.com/content_cvpr_2018/papers/Shen_Deep_Group-Shuffling_Random_CVPR_2018_paper.pdf PDF link]\] \[[https://github.com/YantaoShen/kpm_rw_person_reid Code]\]
-
-*Y. Shen*^, *T. Xiao*^, H. Li, S. Yi, X. Wang, \" End-to-End Deep Kronecker-Product Matching for Person Re-identification \", IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018. \[[http://openaccess.thecvf.com/content_cvpr_2018/papers/Shen_End-to-End_Deep_Kronecker-Product_CVPR_2018_paper.pdf PDF link]\] \[[https://github.com/YantaoShen/kpm_rw_person_reid Code]\] (^denotes co-first authors)
-
-*Y. Shen*, T. Xiao, H. Li, S. Yi, X. Wang, \" Learning Deep Neural Networks for Vehicle Re-ID with Visual-spatio-temporal Path Proposals \", IEEE International Conference on Computer Vision (ICCV), 2017. \[[http://openaccess.thecvf.com/content_ICCV_2017/papers/Shen_Learning_Deep_Neural_ICCV_2017_paper.pdf PDF link]\]
+== Recent Publications and Code
+See my [https://scholar.google.com.hk/citations?user=bEctTN0AAAAJ&hl=zh-CN Google Scholar] and [https://github.com/YantaoShen Github].
